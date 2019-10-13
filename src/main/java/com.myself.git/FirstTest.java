@@ -8,5 +8,6 @@ package com.myself.git;
 public class FirstTest {
     public static void main(String[] args) {
         System.out.println("hello test");
+        System.out.println("hello branch test");
     }
 }
