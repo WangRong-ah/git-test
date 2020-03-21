@@ -10,5 +10,6 @@ public class FirstTest {
         System.out.println("hello test");
         System.out.println("hello branch test");
         System.out.println("add first branch code ");
+        System.out.println("test master reset");
     }
 }
